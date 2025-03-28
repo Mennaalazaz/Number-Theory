@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Number Theory/K_factorization/cmake-build-debug/CMakeFiles/K_factorization.dir
+C:/Users/pc/CLionProjects/Number Theory/K_factorization/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Number Theory/K_factorization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
