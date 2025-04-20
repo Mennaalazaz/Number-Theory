@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Number Theory/The_Eternal_Immorately/cmake-build-debug/CMakeFiles/The_Eternal_Immorately.dir
+C:/Users/pc/CLionProjects/Number Theory/The_Eternal_Immorately/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Number Theory/The_Eternal_Immorately/cmake-build-debug/CMakeFiles/rebuild_cache.dir
