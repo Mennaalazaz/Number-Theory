@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/pc/CLionProjects/Number Theory/Product 1 Modulo N/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/pc/CLionProjects/Number Theory/Product 1 Modulo N",
+	"dir-top-bld" : "C:/Users/pc/CLionProjects/Number Theory/Product 1 Modulo N/cmake-build-debug",
+	"dir-top-src" : "C:/Users/pc/CLionProjects/Number Theory/Product 1 Modulo N",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/pc/CLionProjects/Number Theory/Product 1 Modulo N/cmake-build-debug/CMakeFiles/Product_1_Modulo_N.dir"
+}
